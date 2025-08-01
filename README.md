@@ -72,3 +72,6 @@ composer install
 ```
 ## Button
 <a href="https://getbootstrap.com/" target="_blank">Link Bootsrap</a>
+
+## Badge
+[![app](https://img.shields.io/badge/button-PNC-brown)](https://getbootstrap.com/)
