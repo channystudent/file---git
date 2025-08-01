@@ -45,3 +45,10 @@ nomal text
 3. List 3
    1. sub 1
    2. sub 2
+
+## Imag
+![Dashboard](cat.webp)
+
+## Link
+CSS Framework [Bootstrap]
+(https://getbootstrap.com/)
